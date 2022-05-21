@@ -1,0 +1,20 @@
+Variables:
+S
+A
+B
+C
+End
+Terminals:
+a
+b
+c
+End
+Rules:
+S->ABAC
+A->aA|^|C
+B->bB|^
+C->c
+End
+Start variable:
+S
+End
