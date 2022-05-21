@@ -1,5 +1,6 @@
 # ContextFreeGrammarReduction
 
+
 The input file should in the format as in this example (there could be anything between or before or after a segment that is ended with "End"), where ε's notation is ^:
 @
 $
